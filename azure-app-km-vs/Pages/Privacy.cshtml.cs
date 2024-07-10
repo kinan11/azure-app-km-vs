@@ -14,6 +14,7 @@ namespace azure_app_km_vs.Pages
 
         public void OnGet()
         {
+            throw new Exception("Testing insights");
         }
     }
 

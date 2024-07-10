@@ -5,6 +5,12 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>azure_app_km_vs</RootNamespace>
+    <ApplicationInsightsResourceId>/subscriptions/66e2dc8b-bed2-42ac-b08c-edd28ea6985c/resourceGroups/az-group-rg/providers/microsoft.insights/components/azure-app-km-vs</ApplicationInsightsResourceId>
+    <UserSecretsId>63d40b72-3a55-4e90-9d50-4e8d82694709</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" />
+  </ItemGroup>
 
 </Project>
