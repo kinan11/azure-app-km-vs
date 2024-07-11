@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-app-km-vs", "azure-app-km-vs\azure-app-km-vs.csproj", "{FBDB3103-2288-447E-9824-E4A9AF95FAEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azure-app-km-vs", "azure-app-km-vs\azure-app-km-vs.csproj", "{FBDB3103-2288-447E-9824-E4A9AF95FAEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
